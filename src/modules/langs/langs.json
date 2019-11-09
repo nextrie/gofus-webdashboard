@@ -1,0 +1,26 @@
+{
+    "fr":
+    {
+        "ACCOUNTS": "Comptes",
+        "CONFIGURE": "Configurer",
+        "CHARACTERS": "Personnages",
+        "ROSTERS": "Equipes",
+        "TASKS": "Actions",
+        "ROUTINES": "Tâches",
+        "OVERSEERS": "Contrôleur",
+        "MANAGE": "Gestion",
+        "MONITOR": "Analyse"
+    },
+    "en":
+    {
+        "ACCOUNTS": "Accounts",
+        "CONFIGURE": "Configure",
+        "CHARACTERS": "Characters",
+        "ROSTERS": "Rosters",
+        "TASKS": "Tasks",
+        "ROUTINES": "Routines",
+        "OVERSEERS": "Overseers",
+        "MANAGE": "Manage",
+        "MONITOR": "Monitor"
+    }
+}
